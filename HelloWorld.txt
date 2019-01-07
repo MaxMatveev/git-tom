@@ -1,2 +1,4 @@
+//Эта функция складывает два числа
+
 printf("Hello World!");
 std::cout << "This is a message" << '\n';
