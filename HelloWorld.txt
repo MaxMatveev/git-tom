@@ -1,1 +1,2 @@
 printf("Hello World!");
+std::cout << "This is a message" << '\n';
