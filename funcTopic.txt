@@ -1,4 +1,0 @@
-void funcTopic(int a, int b){
-	int sum = a + b;
-	std::cout << a << " " << b << std::endl;
-}

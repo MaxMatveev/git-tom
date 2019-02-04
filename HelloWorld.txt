@@ -1,7 +1,0 @@
-/* Тут был комментарий, и он крашнулся */
-
-printf("Hello World!");
-std::cout << "This is a message" << '\n';
-cinget();
-
-
