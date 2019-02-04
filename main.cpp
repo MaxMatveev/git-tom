@@ -2,6 +2,8 @@
 
 #include <iostream>
 
+void SumNum(int* a, int* b);
+
 int main(){
 
 std::cout << "Hello World!:" << endl;
